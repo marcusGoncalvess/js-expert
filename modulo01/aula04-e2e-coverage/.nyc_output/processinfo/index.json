@@ -1,0 +1,1 @@
+{"processes":{"5b0487b1-1ae7-49c8-b3ba-8c4d5ef84098":{"parent":null,"children":["abd852c6-3de6-41b1-8043-6d74d676a352"]},"abd852c6-3de6-41b1-8043-6d74d676a352":{"parent":"5b0487b1-1ae7-49c8-b3ba-8c4d5ef84098","children":[]}},"files":{"/home/marcus/projects/js-expert/modulo01/aula04-e2e-coverage/src/api.js":["abd852c6-3de6-41b1-8043-6d74d676a352"]},"externalIds":{}}

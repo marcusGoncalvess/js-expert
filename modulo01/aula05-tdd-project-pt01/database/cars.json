@@ -1,0 +1,23 @@
+[
+  {
+    "id": "093b6068-33db-42dc-8e6c-d051e6fe680e",
+    "name": "CTS",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5aaa679b-3d1b-4580-8480-e866d8c64094",
+    "name": "Model T",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9b6145ee-3c8e-4dad-bc4e-41442cd068d9",
+    "name": "Durango",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
